@@ -1,6 +1,7 @@
 # Dog Age
 PSUEDO-CODE
 
+```
 textbox for years
 calculate button
 
@@ -16,5 +17,5 @@ Submits with calculate button
     else
         pup
     Display age with text
-
+```
 
